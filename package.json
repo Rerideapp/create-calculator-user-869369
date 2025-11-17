@@ -1,0 +1,15 @@
+{
+  "name": "create-calculator-user",
+  "version": "1.0.0",
+  "description": "Create a tip calculator. User enters bill amount and tip percentage, then see the tip amount and total. Show calculations clearly with good formatting.",
+  "scripts": {
+    "start": "serve .",
+    "dev": "serve ."
+  },
+  "keywords": [
+    "cpos",
+    "generated"
+  ],
+  "author": "CPOS",
+  "license": "MIT"
+}
